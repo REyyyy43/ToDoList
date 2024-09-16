@@ -1,5 +1,5 @@
 {
-  "name": "todo-app",
+  "name": "ToDoList",
   "version": "1.0.0",
   "description": "A simple and intuitive todo app",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gabitodev/todo-app.git"
+    "url": "git+https://github.com/REyyyy43/ToDoList.git"
   },
-  "author": "Gabriel Garcia",
+  "author": "Reinaldo Landaeta",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gabitodev/todo-app/issues"
+    "url": "https://github.com/REyyyy43/ToDoList/issues"
   },
-  "homepage": "https://github.com/gabitodev/todo-app#readme",
+  "homepage": "https://github.com/REyyyy43/ToDoList#readme",
   "devDependencies": {
     "tailwindcss": "^3.0.24"
   }
